@@ -1,8 +1,8 @@
 *.ipynb linguist-detectable=True
 *.qml linguist-detectable=False
 *.html linguist-detectable=False
-*.C++ linguist-detectable=False
-*.CSS linguist-detectable=False
+*.c linguist-detectable=False
+*.css linguist-detectable=False
 *.py linguist-language=python
 *.pyi linguist-language=python
 *.ipynb linguist-language=python
