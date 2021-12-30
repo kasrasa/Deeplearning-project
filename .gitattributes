@@ -2,7 +2,7 @@
 *.qml linguist-detectable=False
 *.html linguist-detectable=False
 *.c linguist-detectable=False
-*.css linguist-detectable=False
+*.cc linguist-detectable=False
 *.py linguist-language=python
 *.pyi linguist-language=python
 *.ipynb linguist-language=python
