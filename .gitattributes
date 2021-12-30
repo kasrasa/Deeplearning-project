@@ -1,3 +1,5 @@
 *.ipynb linguist-detectable=True
 *.qml linguist-detectable=False
 *.html linguist-detectable=False
+*.C++ linguist-detectable=False
+*.CSS linguist-detectable=False
