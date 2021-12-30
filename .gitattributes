@@ -3,3 +3,6 @@
 *.html linguist-detectable=False
 *.C++ linguist-detectable=False
 *.CSS linguist-detectable=False
+*.py linguist-language=python
+*.pyi linguist-language=python
+*.ipynb linguist-language=python
